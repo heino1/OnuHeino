@@ -1,0 +1,59 @@
+baseURL = "http://localhost:1313/"
+theme = "ananke"
+languageCode = "et"
+defaultContentLanguage = "et"
+title = "Onu Heino jutud"
+pluralizeListTitles = false
+
+[permalinks]
+  jutud = "/:section/:filename/"
+
+[menus]
+  [[menus.main]]
+    name = "Jutud"
+    url = "/jutud/"
+    weight = 1
+  [[menus.main]]
+    name = "Microteenused"
+    url = "/ms/"
+    weight = 2
+  [[menus.main]]
+    name = "ÄriInfosüsteemid"
+    url = "/IT/"
+    weight = 3
+  [[menus.main]]
+    name = "Huvitavat"
+    url = "/sodipodi/"
+    weight = 4
+  [[menus.main]]
+    name = "Varia"
+    url = "/Lingid/"
+    weight = 5
+
+
+[languages]
+  [languages.et]
+    title = "Onu Heino jutud"
+    weight = 1
+    contentDir = "content"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  recent_posts_number = 3
+  custom_css = ["/css/custom.css"]
+  
+  [[params.ananke_translations]]
+    more = "Vaatan täpsemalt"
+    allTitle = "Kõik jutud"
+    recentTitle = "Viimased jutud"
+    readMore = "Vaatan täpsemalt"
+    posts = "Jutud"
+    moreNews = "Veel jutte"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

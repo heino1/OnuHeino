@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raamatud on Onu Heino jutud</title>
+    <link>http://localhost:1313/tags/raamatud/</link>
+    <description>Recent content in Raamatud on Onu Heino jutud</description>
+    <generator>Hugo</generator>
+    <language>et</language>
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/raamatud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aforismid</title>
+      <link>http://localhost:1313/lingid/aforisme/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lingid/aforisme/</guid>
+      <description>&lt;p&gt;Raamat on peegel: kui ahv sellesse vaatab, ei vaata apostel tõenäoliselt vastu.&lt;/p&gt;&#xA;&lt;p&gt;Georg Christoph Lichtenberg&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

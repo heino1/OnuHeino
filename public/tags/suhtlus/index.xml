@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suhtlus on Onu Heino jutud</title>
+    <link>http://localhost:1313/tags/suhtlus/</link>
+    <description>Recent content in Suhtlus on Onu Heino jutud</description>
+    <generator>Hugo</generator>
+    <language>et</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/suhtlus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aitab õudsetest uudistest</title>
+      <link>http://localhost:1313/jutud/2/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/2/</guid>
+      <description>&lt;p&gt;teeks midagi lõbusamat ja vaataks uudiste asemel mõnda õudukat!?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kui teil pole sõpru</title>
+      <link>http://localhost:1313/jutud/laen/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/laen/</guid>
+      <description>&lt;p&gt;kui teil ei ole sõpru, kui teile keegi ei helista ega kirjuta, võtke laenu, soovitavalt SMS laenu ja küll näete, mõne ajapärast &amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

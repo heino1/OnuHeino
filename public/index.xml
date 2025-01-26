@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onu Heino jutud</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Onu Heino jutud</description>
+    <generator>Hugo</generator>
+    <language>et</language>
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Päämõte</title>
+      <link>http://localhost:1313/jutud/minu_jutud/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/minu_jutud/</guid>
+      <description>&lt;p&gt;Võib-olla keegi arvab, et &amp;ldquo;onu Heino&amp;quot;sid ei ole olemas, siis ta eksib. Mina olemgi Heino ja ju siis kellelegi onu Heino.&#xA;Võõraid mehi kutsutakse ikka onudeks ja kui hästi läheheb ja nime teatakse, siis ka nimepidi.&lt;/p&gt;&#xA;&lt;p&gt;Ma katsun siia kirja panna oma tarkuseteri. Eks nad natuke ekletilised ole, kuid selline ma ju olen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aforismid</title>
+      <link>http://localhost:1313/lingid/aforisme/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lingid/aforisme/</guid>
+      <description>&lt;p&gt;Raamat on peegel: kui ahv sellesse vaatab, ei vaata apostel tõenäoliselt vastu.&lt;/p&gt;&#xA;&lt;p&gt;Georg Christoph Lichtenberg&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Valitsuse koosseisust</title>
+      <link>http://localhost:1313/jutud/6/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/6/</guid>
+      <description>&lt;p&gt;Onu Heino, kas on tõsi, et valitsuse töötavad ainult ebaausad inimesd?&lt;/p&gt;&#xA;&lt;p&gt;Ei, kindlasti mitte: Seal on ka ebatarku!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ÄriInfosüsteemid - Pilvetehnoloogia</title>
+      <link>http://localhost:1313/it/5pilvetehnoloogia/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/5pilvetehnoloogia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Süüa tahaks, aga ei ole aega</title>
+      <link>http://localhost:1313/jutud/5/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/5/</guid>
+      <description>&lt;p&gt;Küsis üks noormees minult: &amp;ldquo;Onu Heino, miks inimeded peale põhitööd veel Bolti sõidavad?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Ah,&amp;rdquo; vastasin mina, &amp;ldquo;ühe kohaga töötades ei saa söönuks - kahel kohal töötades ei ole aega süüa. Boldis ja Woldis toimetades oled aga ise oma aja peremees.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ÄriInfosüsteemid - Virtualiseerimine</title>
+      <link>http://localhost:1313/it/4virtualization/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/4virtualization/</guid>
+      <description>&lt;p&gt;Mis on virtualiseerimine?&#xA;&lt;img src=&#34;http://localhost:1313/files/IT-4-Virtualization_types.png&#34; alt=&#34;Scenario 1: Across columns&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Mõiste:&lt;/strong&gt;&#xA;Virtualiseerimine on tehnoloogia, mis võimaldab ühte füüsilist arvutisüsteemi jagada mitmeks loogiliseks ressursiks.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Ja nagu pildilt näha, siis on virtuaalseks võimalik muuta kõiki füüsilisi ressurse. Arvuteid, kettaid, võrgu seadameid, rakendusi jms. Nii saab ühel füüsilisel serveril töötada mitu virtuaalmasinat, mis igaüks toimib justkui iseseisev arvuti.&lt;/p&gt;&#xA;&lt;p&gt;Virtuaalseadmed on on tarkvarapõhised süsteemid, mis jäljendavad füüsilist riistvara. Arvutite virtualiseerimine toimub hüperviisori abil, mis on tarkvarakiht füüsilise riistvara ja virtuaalmasinate vahel.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Huvitavat  siit ja sealt</title>
+      <link>http://localhost:1313/sodipodi/ai/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sodipodi/ai/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;AI värk.&lt;/p&gt;&#xA;&lt;p&gt;Prii AI liides, olevat hea abiline koodi kirjutamisel.&#xA;ja väidetavalt teeb enda koodi kiiremaks, kui seda paluda.&lt;/p&gt;&#xA;&lt;p&gt;url = &amp;lsquo;&lt;a href=&#34;http://claude.ai/login?returnTo=%2F%3F#features%27&#34;&gt;http://claude.ai/login?returnTo=%2F%3F#features&#39;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lingid</title>
+      <link>http://localhost:1313/lingid/ai/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lingid/ai/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Prii AI liides, olevat hea abiline koodi kirjutamisel.&#xA;Väidetavalt on võimeline oma loodud koodi optimeerima, kui temalt seda paluda.&lt;/p&gt;&#xA;&lt;p&gt;url = &amp;lsquo;&lt;a href=&#34;http://claude.ai/login?returnTo=%2F%3F#features%27&#34;&gt;http://claude.ai/login?returnTo=%2F%3F#features&#39;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ÄriInfosüsteemid - Andmed-&gt;Info-&gt;Teadmised-&gt;Tarkus-&gt;Otsus</title>
+      <link>http://localhost:1313/it/1inforamtsioon/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/1inforamtsioon/</guid>
+      <description>&lt;p&gt;Info&#xA;I/O seadmed (ribakood QRkood)&#xA;Andmete kogumise tehnikad&#xA;Andmete integreerimise tehnikad(EDI/REST, XML, Blokiahel)&lt;/p&gt;&#xA;&lt;h2 id=&#34;väljavõte-tartu-ülikooli-andmeteaduse-õpikust-aadressilt-httpscoursescsuteetandmeteadus&#34;&gt;Väljavõte Tartu Ülikooli Andmeteaduse õpikust aadressilt: &lt;a href=&#34;https://courses.cs.ut.ee/t/andmeteadus/&#34;&gt;https://courses.cs.ut.ee/t/andmeteadus/&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 90%; margin: 0 auto;&#34;&gt;&#xD;&#xA;  &lt;iframe src=&#34;http://localhost:1313/files/Praktiline_andmeteadus_kõrgkooliõpik_LK_10-16.pdf#view=FitH&#34;&#xD;&#xA;          style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34;&#xD;&#xA;          frameborder=&#34;0&#34;&#xD;&#xA;          allowfullscreen&gt;&#xD;&#xA;  &lt;/iframe&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/files/Praktiline_andmeteadus_kõrgkooliõpik_LK_10-16.pdf&#34; target=&#34;_blank&#34; style=&#34;font-size: 18px; display: block; margin-top: 20px;&#34;&gt;Ava PDF uues aknas&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ÄriInfosüsteemid - Riistvara</title>
+      <link>http://localhost:1313/it/2riistvara/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/2riistvara/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/files/IS_IT_People_Procedure.jpg&#34; alt=&#34;Scenario 1: Across columns&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Põhiteemad, mis selles loengus käsitlemist leiavad:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mis on ÄriInfoSüsteem (Business Information System)?&lt;/p&gt;&#xA;&lt;p&gt;Äriinfosüsteem koosneb 3-st komponendist:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Platvorm ja  Tehnoloogia&lt;/li&gt;&#xA;&lt;li&gt;Protsessid&lt;/li&gt;&#xA;&lt;li&gt;Inimesed&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Geomeetriast teame, et lübi 3 punkti saab alati panna tasapinna. Mis omakorda füüsikute keeles tähendab. et 3 punktine süsteem on alati tasakaalus. Seni, kui nendele 3-le punktile saab võrdselt toetuda. Need kolm on nagu kolm jalga taburetil. Kui nendest üks vildakas on, hakkab süsteem kohe kõikuma.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ÄriInfosüsteemid - Võrgud</title>
+      <link>http://localhost:1313/it/3network/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/3network/</guid>
+      <description>&lt;h2 id=&#34;1-võrkude-alused-20-min&#34;&gt;1. Võrkude alused (20 min)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mis on arvutivõrk ja miks see on ärimaailmas oluline&lt;/p&gt;&#xA;&lt;p&gt;Arvutivõrgu põhimõiste selgitus:&lt;/p&gt;&#xA;&lt;p&gt;Arvutivõrk on omavahel ühendatud seadmete süsteem, mis võimaldab andmete ja ressursside jagamist.&#xA;Tänapäeval ei ole võrgus ainult arvutid, vaid ka nutitelefonid, printerid, turvakaamerad, kassasüsteemid jne&lt;/p&gt;&#xA;&lt;p&gt;Ärimaailma olulisus:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Ressursside jagamine ja kulude kokkuhoid:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Ühised printerid ja võrguseadmed;&#xA;Tsentraalne andmehoidla;&#xA;Tarkvara jagamine ja haldamine;&#xA;Serveriressursside efektiivne kasutamine;&lt;/p&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Kommunikatsioon:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Sisesuhtlus (e-post, sõnumid, videokõned); Klientidega suhtlemine;&#xA;Kaugtöö võimalused;&#xA;Virtuaalkoosolekud;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mikroteenused ja konteinerarhitektuur</title>
+      <link>http://localhost:1313/ms/sissejuhatus/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ms/sissejuhatus/</guid>
+      <description>&lt;p&gt;See leht on &lt;strong&gt;Mikroteenused ja konteinerarhitektuur&lt;/strong&gt;i teemalisele loengutesarja leht. Sari koosneb 16 loengust ja siia peaksid kõikide tagis tulema.&#xA;See on siis ühtlasi ka sissejuhatus Mikroteenuste loengusse.&#xA;loengu pikkused on&#xA;esimese loengu pdf on siin.&lt;/p&gt;&#xA;&lt;h2 id=&#34;esitlus&#34;&gt;Esitlus&lt;/h2&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 90%; margin: 0 auto;&#34;&gt;&#xD;&#xA;  &lt;iframe src=&#34;http://localhost:1313/files/1-MicroServices-intro.pdf#view=FitH&#34;&#xD;&#xA;          style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34;&#xD;&#xA;          frameborder=&#34;0&#34;&#xD;&#xA;          allowfullscreen&gt;&#xD;&#xA;  &lt;/iframe&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/files/1-MicroServices-intro.pdf&#34; target=&#34;_blank&#34; style=&#34;font-size: 18px; display: block; margin-top: 20px;&#34;&gt;Ava PDF uues aknas&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Virtualiseerimine</title>
+      <link>http://localhost:1313/ms/virtualiseerimine/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ms/virtualiseerimine/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mis on virtualiseerimine?&lt;/p&gt;&#xA;&lt;p&gt;Virtualiseerimine on informaatikas virtuaalse riistvara, operatsioonisüsteemi, andmekandja, võrguressursi vms loomine.&lt;/p&gt;&#xA;&lt;p&gt;Virtualiseerimine on kasvav trend infotehnoloogias, mis lubab hõlpsasti ressursse (arvutusvõimsust, mälu, jms) vastavalt vajadusele ümber suunata sinna, kus neid parajasti vaja on. Seetõttu on virtualiseerimisega võimalik kulusid kokku hoida.&lt;/p&gt;&#xA;&lt;p&gt;Virtualiseerimise näited on sümmeetrilised, mitme protsessoriga arvutite arhitektuurid, mis kasutavad rohkem kui üht protsessorit. Operatsioonisüsteem on tavaliselt konfigureeritud nii, et mitu protsessorit esitlevad ühte protsessori moodulit. Sellepärast tarkvara rakendusi saab kirjutada ühele loogilisele (virtuaalsele) arvutimoodulile, mis on palju lihtsam kui töötada paljude erinevate protsessori konfiguratsioonidega. Taoline arvutuspilv pakub klastersüsteemidega võrreldavat töökindlust lihtsamalt ja odavamalt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ÄriInfosüsteemid</title>
+      <link>http://localhost:1313/it/sissjuhatus/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/sissjuhatus/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Siia tulevad ÄriIT matejalid.&#xA;Ülevaade IT-st, kuid umbes nagu gümnaasiumi IT, ainult Äri vaatevinklist.&lt;/p&gt;&#xA;&lt;p&gt;Orienteeruv kursuse sisu:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mis on ÄriInfosüsteemid?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Äri&lt;/strong&gt; = organisatsioon, firma, ametiühing, sõjavägi - mida iganes.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Info&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Informatsioon =  andmed - tema kandjad ja edastamise viisid ning informatsiooni  tähendus, liigendatus,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Süsteemid&lt;/strong&gt; - kõik mis eeltoodu kooskõlaliseks teeb.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Kui me räägime &lt;em&gt;Äri Info Süsteemidest&lt;/em&gt;, siis pea asjalikult räägime &lt;em&gt;Infor&lt;/em&gt;matsioonist ja &lt;em&gt;Süsteem&lt;/em&gt;idest. Me ei räägi ärist (organisatsioonist), kuid eeltoodust rääkides mõtleme, kuidas nad ärile kasuks võivad tulla.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On arvud ja on statistika</title>
+      <link>http://localhost:1313/jutud/4/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/4/</guid>
+      <description>&lt;p&gt;Onu Heino - Statistikaamet ütleb, et meie inflatsioon on ainult 3.5%!&lt;/p&gt;&#xA;&lt;p&gt;Inflatsiooniga on nagu külmagagi. Ilmateade teatab 5kraadisest külmast, aga tajutav temperatuur on 15 kraadi.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>kurss tasuvale elule</title>
+      <link>http://localhost:1313/jutud/3/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/3/</guid>
+      <description>&lt;p&gt;Onu Heino - mida ma peaksin õppima, et hästi elada?&lt;/p&gt;&#xA;&lt;p&gt;Lõpeta gümnaasium, omanda bakalauruse kraad, siis magister, siis saa doktoriks ning kui siis ikka vähe teenid, mine suunamudijate kursusele&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aitab õudsetest uudistest</title>
+      <link>http://localhost:1313/jutud/2/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/2/</guid>
+      <description>&lt;p&gt;teeks midagi lõbusamat ja vaataks uudiste asemel mõnda õudukat!?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kui teil pole sõpru</title>
+      <link>http://localhost:1313/jutud/laen/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/laen/</guid>
+      <description>&lt;p&gt;kui teil ei ole sõpru, kui teile keegi ei helista ega kirjuta, võtke laenu, soovitavalt SMS laenu ja küll näete, mõne ajapärast &amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

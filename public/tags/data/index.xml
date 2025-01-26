@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on Onu Heino jutud</title>
+    <link>http://localhost:1313/tags/data/</link>
+    <description>Recent content in Data on Onu Heino jutud</description>
+    <generator>Hugo</generator>
+    <language>et</language>
+    <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ÄriInfosüsteemid - Andmed-&gt;Info-&gt;Teadmised-&gt;Tarkus-&gt;Otsus</title>
+      <link>http://localhost:1313/it/1inforamtsioon/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/1inforamtsioon/</guid>
+      <description>&lt;p&gt;Info&#xA;I/O seadmed (ribakood QRkood)&#xA;Andmete kogumise tehnikad&#xA;Andmete integreerimise tehnikad(EDI/REST, XML, Blokiahel)&lt;/p&gt;&#xA;&lt;h2 id=&#34;väljavõte-tartu-ülikooli-andmeteaduse-õpikust-aadressilt-httpscoursescsuteetandmeteadus&#34;&gt;Väljavõte Tartu Ülikooli Andmeteaduse õpikust aadressilt: &lt;a href=&#34;https://courses.cs.ut.ee/t/andmeteadus/&#34;&gt;https://courses.cs.ut.ee/t/andmeteadus/&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 90%; margin: 0 auto;&#34;&gt;&#xD;&#xA;  &lt;iframe src=&#34;http://localhost:1313/files/Praktiline_andmeteadus_kõrgkooliõpik_LK_10-16.pdf#view=FitH&#34;&#xD;&#xA;          style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34;&#xD;&#xA;          frameborder=&#34;0&#34;&#xD;&#xA;          allowfullscreen&gt;&#xD;&#xA;  &lt;/iframe&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/files/Praktiline_andmeteadus_kõrgkooliõpik_LK_10-16.pdf&#34; target=&#34;_blank&#34; style=&#34;font-size: 18px; display: block; margin-top: 20px;&#34;&gt;Ava PDF uues aknas&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

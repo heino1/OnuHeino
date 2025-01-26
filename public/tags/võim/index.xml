@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Võim on Onu Heino jutud</title>
+    <link>http://localhost:1313/tags/v%C3%B5im/</link>
+    <description>Recent content in Võim on Onu Heino jutud</description>
+    <generator>Hugo</generator>
+    <language>et</language>
+    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/v%C3%B5im/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Valitsuse koosseisust</title>
+      <link>http://localhost:1313/jutud/6/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/6/</guid>
+      <description>&lt;p&gt;Onu Heino, kas on tõsi, et valitsuse töötavad ainult ebaausad inimesd?&lt;/p&gt;&#xA;&lt;p&gt;Ei, kindlasti mitte: Seal on ka ebatarku!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

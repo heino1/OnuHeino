@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ERP on Onu Heino jutud</title>
+    <link>http://localhost:1313/tags/erp/</link>
+    <description>Recent content in ERP on Onu Heino jutud</description>
+    <generator>Hugo</generator>
+    <language>et</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/erp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ÄriInfosüsteemid</title>
+      <link>http://localhost:1313/it/sissjuhatus/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/sissjuhatus/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Siia tulevad ÄriIT matejalid.&#xA;Ülevaade IT-st, kuid umbes nagu gümnaasiumi IT, ainult Äri vaatevinklist.&lt;/p&gt;&#xA;&lt;p&gt;Orienteeruv kursuse sisu:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mis on ÄriInfosüsteemid?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Äri&lt;/strong&gt; = organisatsioon, firma, ametiühing, sõjavägi - mida iganes.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Info&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Informatsioon =  andmed - tema kandjad ja edastamise viisid ning informatsiooni  tähendus, liigendatus,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Süsteemid&lt;/strong&gt; - kõik mis eeltoodu kooskõlaliseks teeb.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Kui me räägime &lt;em&gt;Äri Info Süsteemidest&lt;/em&gt;, siis pea asjalikult räägime &lt;em&gt;Infor&lt;/em&gt;matsioonist ja &lt;em&gt;Süsteem&lt;/em&gt;idest. Me ei räägi ärist (organisatsioonist), kuid eeltoodust rääkides mõtleme, kuidas nad ärile kasuks võivad tulla.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

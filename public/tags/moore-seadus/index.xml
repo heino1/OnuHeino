@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moore Seadus on Onu Heino jutud</title>
+    <link>http://localhost:1313/tags/moore-seadus/</link>
+    <description>Recent content in Moore Seadus on Onu Heino jutud</description>
+    <generator>Hugo</generator>
+    <language>et</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/moore-seadus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtualiseerimine</title>
+      <link>http://localhost:1313/ms/virtualiseerimine/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ms/virtualiseerimine/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mis on virtualiseerimine?&lt;/p&gt;&#xA;&lt;p&gt;Virtualiseerimine on informaatikas virtuaalse riistvara, operatsioonisüsteemi, andmekandja, võrguressursi vms loomine.&lt;/p&gt;&#xA;&lt;p&gt;Virtualiseerimine on kasvav trend infotehnoloogias, mis lubab hõlpsasti ressursse (arvutusvõimsust, mälu, jms) vastavalt vajadusele ümber suunata sinna, kus neid parajasti vaja on. Seetõttu on virtualiseerimisega võimalik kulusid kokku hoida.&lt;/p&gt;&#xA;&lt;p&gt;Virtualiseerimise näited on sümmeetrilised, mitme protsessoriga arvutite arhitektuurid, mis kasutavad rohkem kui üht protsessorit. Operatsioonisüsteem on tavaliselt konfigureeritud nii, et mitu protsessorit esitlevad ühte protsessori moodulit. Sellepärast tarkvara rakendusi saab kirjutada ühele loogilisele (virtuaalsele) arvutimoodulile, mis on palju lihtsam kui töötada paljude erinevate protsessori konfiguratsioonidega. Taoline arvutuspilv pakub klastersüsteemidega võrreldavat töökindlust lihtsamalt ja odavamalt.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

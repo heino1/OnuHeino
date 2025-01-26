@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jutud on Onu Heino jutud</title>
+    <link>http://localhost:1313/jutud/</link>
+    <description>Recent content in Jutud on Onu Heino jutud</description>
+    <generator>Hugo</generator>
+    <language>et</language>
+    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/jutud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Päämõte</title>
+      <link>http://localhost:1313/jutud/minu_jutud/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/minu_jutud/</guid>
+      <description>&lt;p&gt;Võib-olla keegi arvab, et &amp;ldquo;onu Heino&amp;quot;sid ei ole olemas, siis ta eksib. Mina olemgi Heino ja ju siis kellelegi onu Heino.&#xA;Võõraid mehi kutsutakse ikka onudeks ja kui hästi läheheb ja nime teatakse, siis ka nimepidi.&lt;/p&gt;&#xA;&lt;p&gt;Ma katsun siia kirja panna oma tarkuseteri. Eks nad natuke ekletilised ole, kuid selline ma ju olen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Valitsuse koosseisust</title>
+      <link>http://localhost:1313/jutud/6/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/6/</guid>
+      <description>&lt;p&gt;Onu Heino, kas on tõsi, et valitsuse töötavad ainult ebaausad inimesd?&lt;/p&gt;&#xA;&lt;p&gt;Ei, kindlasti mitte: Seal on ka ebatarku!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Süüa tahaks, aga ei ole aega</title>
+      <link>http://localhost:1313/jutud/5/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/5/</guid>
+      <description>&lt;p&gt;Küsis üks noormees minult: &amp;ldquo;Onu Heino, miks inimeded peale põhitööd veel Bolti sõidavad?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Ah,&amp;rdquo; vastasin mina, &amp;ldquo;ühe kohaga töötades ei saa söönuks - kahel kohal töötades ei ole aega süüa. Boldis ja Woldis toimetades oled aga ise oma aja peremees.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On arvud ja on statistika</title>
+      <link>http://localhost:1313/jutud/4/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/4/</guid>
+      <description>&lt;p&gt;Onu Heino - Statistikaamet ütleb, et meie inflatsioon on ainult 3.5%!&lt;/p&gt;&#xA;&lt;p&gt;Inflatsiooniga on nagu külmagagi. Ilmateade teatab 5kraadisest külmast, aga tajutav temperatuur on 15 kraadi.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>kurss tasuvale elule</title>
+      <link>http://localhost:1313/jutud/3/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/3/</guid>
+      <description>&lt;p&gt;Onu Heino - mida ma peaksin õppima, et hästi elada?&lt;/p&gt;&#xA;&lt;p&gt;Lõpeta gümnaasium, omanda bakalauruse kraad, siis magister, siis saa doktoriks ning kui siis ikka vähe teenid, mine suunamudijate kursusele&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aitab õudsetest uudistest</title>
+      <link>http://localhost:1313/jutud/2/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/2/</guid>
+      <description>&lt;p&gt;teeks midagi lõbusamat ja vaataks uudiste asemel mõnda õudukat!?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kui teil pole sõpru</title>
+      <link>http://localhost:1313/jutud/laen/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/laen/</guid>
+      <description>&lt;p&gt;kui teil ei ole sõpru, kui teile keegi ei helista ega kirjuta, võtke laenu, soovitavalt SMS laenu ja küll näete, mõne ajapärast &amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

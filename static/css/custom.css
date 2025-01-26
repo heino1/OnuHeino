@@ -1,0 +1,33 @@
+/* Laienda kõigi sektsioonide sisu ala */
+.w-100.center.ph3.ph4-ns,
+.mw7.center.ph3.ph4-ns,
+.center.ph3.ph4-ns,
+article.cf.ph3.ph5-l.pv3.pv4-l.f4.center.measure-wide.lh-copy.mid-gray,
+.flex-l.items-center.center,
+.mw7,
+.measure-wide,
+main article,
+.nested-copy-line-height,
+.page-main article,
+.content-main,
+.cf.ph3.ph5-l.pv3.pv4-l.f4.tc-l.center,
+div[data-type="section"],
+.relative.w-100.mb4.bg-white {
+    max-width: 90rem !important;
+    margin: 0 auto !important;
+    width: auto !important;
+}
+
+/* PDF konteiner */
+.post-content embed,
+.post-content iframe,
+embed,
+iframe {
+    width: 100%;
+    height: 800px;
+}
+
+/* Üldista kõik mõõdud */
+.mw5, .mw6, .mw7, .mw8, .mw9 {
+    max-width: 90rem !important;
+} 

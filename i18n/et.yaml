@@ -1,0 +1,18 @@
+- id: recentTitle
+  translation: "Viimased jutud"
+- id: more
+  translation: "Veel"
+- id: allTitle
+  translation: "Kõik jutud"
+- id: readMore
+  translation: "Vaatan täpsemalt"
+- id: title
+  translation: "Jutt"
+- id: posts
+  translation: "Jutud"
+- id: moreNews
+  translation: "Veel jutte"
+- id: categories
+  translation: "Kategooriad"
+- id: tags
+  translation: "Sildid" 

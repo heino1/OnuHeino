@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtuaalsus on Onu Heino jutud</title>
+    <link>http://localhost:1313/tags/virtuaalsus/</link>
+    <description>Recent content in Virtuaalsus on Onu Heino jutud</description>
+    <generator>Hugo</generator>
+    <language>et</language>
+    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/virtuaalsus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ÄriInfosüsteemid - Pilvetehnoloogia</title>
+      <link>http://localhost:1313/it/5pilvetehnoloogia/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/5pilvetehnoloogia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ÄriInfosüsteemid - Virtualiseerimine</title>
+      <link>http://localhost:1313/it/4virtualization/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/4virtualization/</guid>
+      <description>&lt;p&gt;Mis on virtualiseerimine?&#xA;&lt;img src=&#34;http://localhost:1313/files/IT-4-Virtualization_types.png&#34; alt=&#34;Scenario 1: Across columns&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Mõiste:&lt;/strong&gt;&#xA;Virtualiseerimine on tehnoloogia, mis võimaldab ühte füüsilist arvutisüsteemi jagada mitmeks loogiliseks ressursiks.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Ja nagu pildilt näha, siis on virtuaalseks võimalik muuta kõiki füüsilisi ressurse. Arvuteid, kettaid, võrgu seadameid, rakendusi jms. Nii saab ühel füüsilisel serveril töötada mitu virtuaalmasinat, mis igaüks toimib justkui iseseisev arvuti.&lt;/p&gt;&#xA;&lt;p&gt;Virtuaalseadmed on on tarkvarapõhised süsteemid, mis jäljendavad füüsilist riistvara. Arvutite virtualiseerimine toimub hüperviisori abil, mis on tarkvarakiht füüsilise riistvara ja virtuaalmasinate vahel.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

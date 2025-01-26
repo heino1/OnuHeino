@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Onu Heino jutud</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Onu Heino jutud</description>
+    <generator>Hugo</generator>
+    <language>et</language>
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Varia</title>
+      <link>http://localhost:1313/categories/varia/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/varia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Suhtlus</title>
+      <link>http://localhost:1313/categories/suhtlus/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/suhtlus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IT Logistikutele</title>
+      <link>http://localhost:1313/categories/it-logistikutele/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/it-logistikutele/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Huumor</title>
+      <link>http://localhost:1313/categories/huumor/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/huumor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Onu Heino Tarkuseterad</title>
+      <link>http://localhost:1313/categories/onu-heino-tarkuseterad/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/onu-heino-tarkuseterad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microteenusete Alased Terad</title>
+      <link>http://localhost:1313/categories/microteenusete-alased-terad/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/microteenusete-alased-terad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raha</title>
+      <link>http://localhost:1313/categories/raha/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/raha/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Haridus</title>
+      <link>http://localhost:1313/categories/haridus/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/haridus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Luule</title>
+      <link>http://localhost:1313/categories/luule/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/luule/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Romaan</title>
+      <link>http://localhost:1313/categories/romaan/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/romaan/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

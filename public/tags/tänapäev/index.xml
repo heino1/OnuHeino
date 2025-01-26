@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tänapäev on Onu Heino jutud</title>
+    <link>http://localhost:1313/tags/t%C3%A4nap%C3%A4ev/</link>
+    <description>Recent content in Tänapäev on Onu Heino jutud</description>
+    <generator>Hugo</generator>
+    <language>et</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/t%C3%A4nap%C3%A4ev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aitab õudsetest uudistest</title>
+      <link>http://localhost:1313/jutud/2/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jutud/2/</guid>
+      <description>&lt;p&gt;teeks midagi lõbusamat ja vaataks uudiste asemel mõnda õudukat!?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

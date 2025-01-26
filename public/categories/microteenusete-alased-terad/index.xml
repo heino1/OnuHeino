@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microteenusete Alased Terad on Onu Heino jutud</title>
+    <link>http://localhost:1313/categories/microteenusete-alased-terad/</link>
+    <description>Recent content in Microteenusete Alased Terad on Onu Heino jutud</description>
+    <generator>Hugo</generator>
+    <language>et</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/microteenusete-alased-terad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mikroteenused ja konteinerarhitektuur</title>
+      <link>http://localhost:1313/ms/sissejuhatus/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ms/sissejuhatus/</guid>
+      <description>&lt;p&gt;See leht on &lt;strong&gt;Mikroteenused ja konteinerarhitektuur&lt;/strong&gt;i teemalisele loengutesarja leht. Sari koosneb 16 loengust ja siia peaksid kõikide tagis tulema.&#xA;See on siis ühtlasi ka sissejuhatus Mikroteenuste loengusse.&#xA;loengu pikkused on&#xA;esimese loengu pdf on siin.&lt;/p&gt;&#xA;&lt;h2 id=&#34;esitlus&#34;&gt;Esitlus&lt;/h2&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 90%; margin: 0 auto;&#34;&gt;&#xD;&#xA;  &lt;iframe src=&#34;http://localhost:1313/files/1-MicroServices-intro.pdf#view=FitH&#34;&#xD;&#xA;          style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34;&#xD;&#xA;          frameborder=&#34;0&#34;&#xD;&#xA;          allowfullscreen&gt;&#xD;&#xA;  &lt;/iframe&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/files/1-MicroServices-intro.pdf&#34; target=&#34;_blank&#34; style=&#34;font-size: 18px; display: block; margin-top: 20px;&#34;&gt;Ava PDF uues aknas&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Virtualiseerimine</title>
+      <link>http://localhost:1313/ms/virtualiseerimine/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ms/virtualiseerimine/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mis on virtualiseerimine?&lt;/p&gt;&#xA;&lt;p&gt;Virtualiseerimine on informaatikas virtuaalse riistvara, operatsioonisüsteemi, andmekandja, võrguressursi vms loomine.&lt;/p&gt;&#xA;&lt;p&gt;Virtualiseerimine on kasvav trend infotehnoloogias, mis lubab hõlpsasti ressursse (arvutusvõimsust, mälu, jms) vastavalt vajadusele ümber suunata sinna, kus neid parajasti vaja on. Seetõttu on virtualiseerimisega võimalik kulusid kokku hoida.&lt;/p&gt;&#xA;&lt;p&gt;Virtualiseerimise näited on sümmeetrilised, mitme protsessoriga arvutite arhitektuurid, mis kasutavad rohkem kui üht protsessorit. Operatsioonisüsteem on tavaliselt konfigureeritud nii, et mitu protsessorit esitlevad ühte protsessori moodulit. Sellepärast tarkvara rakendusi saab kirjutada ühele loogilisele (virtuaalsele) arvutimoodulile, mis on palju lihtsam kui töötada paljude erinevate protsessori konfiguratsioonidega. Taoline arvutuspilv pakub klastersüsteemidega võrreldavat töökindlust lihtsamalt ja odavamalt.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

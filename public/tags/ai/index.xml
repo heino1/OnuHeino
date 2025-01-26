@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on Onu Heino jutud</title>
+    <link>http://localhost:1313/tags/ai/</link>
+    <description>Recent content in AI on Onu Heino jutud</description>
+    <generator>Hugo</generator>
+    <language>et</language>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Huvitavat  siit ja sealt</title>
+      <link>http://localhost:1313/sodipodi/ai/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sodipodi/ai/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;AI värk.&lt;/p&gt;&#xA;&lt;p&gt;Prii AI liides, olevat hea abiline koodi kirjutamisel.&#xA;ja väidetavalt teeb enda koodi kiiremaks, kui seda paluda.&lt;/p&gt;&#xA;&lt;p&gt;url = &amp;lsquo;&lt;a href=&#34;http://claude.ai/login?returnTo=%2F%3F#features%27&#34;&gt;http://claude.ai/login?returnTo=%2F%3F#features&#39;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lingid</title>
+      <link>http://localhost:1313/lingid/ai/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lingid/ai/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Prii AI liides, olevat hea abiline koodi kirjutamisel.&#xA;Väidetavalt on võimeline oma loodud koodi optimeerima, kui temalt seda paluda.&lt;/p&gt;&#xA;&lt;p&gt;url = &amp;lsquo;&lt;a href=&#34;http://claude.ai/login?returnTo=%2F%3F#features%27&#34;&gt;http://claude.ai/login?returnTo=%2F%3F#features&#39;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
